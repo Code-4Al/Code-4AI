@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shashmith%20S&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=350&color=6F42C1&text=Shashmith%20S&fontColor=FFFFFF&fontSize=85&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20&%20PERN%20Stack%20|%20Next.js%20Developer&descAlignY=60&descSize=28"
+  />
 </p>
 
 <h3 align="center">
@@ -7,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;MERN+%26+PERN+Stack;Learning+AI+Agents;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;MERN+%26+PERN+Stack;" />
 </p>
 
 - 📫 Reach me at: shashmithpcmc@gmail.com
