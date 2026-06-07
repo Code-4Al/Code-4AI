@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shashmith S</h1>
-<h3 align="center">Full Stack Developer from India</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shashmith%20S&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60" />
+</p>
 
+<h3 align="center">
+🚀 Building Scalable Web Applications with MERN, PERN & Next.js
+</h3>
 
-- 👨‍💻 All of my projects are available on GitHub
-
-- 💬 Ask me about React, Node.js, Express, MongoDB, PostgreSQL,Next.js,Prisma
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;MERN+%26+PERN+Stack;Learning+AI+Agents;Open+Source+Contributor" />
+</p>
 
 - 📫 Reach me at: shashmithpcmc@gmail.com
 
@@ -17,69 +21,71 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="80"/><br>HTML
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=html" width="120"/><br><b>HTML</b>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="80"/><br>CSS
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=css" width="120"/><br><b>CSS</b>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="80"/><br>JavaScript
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=js" width="120"/><br><b>JavaScript</b>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="80"/><br>Java
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=java" width="120"/><br><b>Java</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="80"/><br>React
+      <img src="https://skillicons.dev/icons?i=react" width="120"/><br><b>React</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux" width="80"/><br>Redux
+      <img src="https://skillicons.dev/icons?i=redux" width="120"/><br><b>Redux</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="80"/><br>Next.js
+      <img src="https://skillicons.dev/icons?i=nextjs" width="120"/><br><b>Next.js</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="80"/><br>Node.js
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="80"/><br>Express
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=graphql" width="80"/><br>GraphQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="80"/><br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="80"/><br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=nodejs" width="120"/><br><b>Node.js</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redis" width="80"/><br>Redis
+      <img src="https://skillicons.dev/icons?i=express" width="120"/><br><b>Express</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=prisma" width="80"/><br>Prisma
+      <img src="https://skillicons.dev/icons?i=graphql" width="120"/><br><b>GraphQL</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="80"/><br>Git
+      <img src="https://skillicons.dev/icons?i=mongodb" width="120"/><br><b>MongoDB</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="80"/><br>Postman
+      <img src="https://skillicons.dev/icons?i=postgresql" width="120"/><br><b>PostgreSQL</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redis" width="120"/><br><b>Redis</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=prisma" width="120"/><br><b>Prisma</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="120"/><br><b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="120"/><br><b>Postman</b>
     </td>
   </tr>
 </table>
+
+
 
 <p>
 <img align="center"
