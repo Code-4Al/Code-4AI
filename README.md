@@ -1,28 +1,23 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=350&color=6F42C1&text=Shashmith%20S&fontColor=FFFFFF&fontSize=85&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20&%20PERN%20Stack%20|%20Next.js%20Developer&descAlignY=60&descSize=28"
+    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=FFFFFF&text=SHASHMITH%20S&fontColor=000000&fontSize=90"
   />
 </p>
-
-<h3 align="center">
-🚀 Building Scalable Web Applications with MERN, PERN & Next.js
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+Developer;MERN+%26+PERN+Stack;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&background=00000000&width=800&height=40&lines=MERN+%26+PERN+Developer;Next.js+Developer" />
 </p>
 
-- 📫 Reach me at: shashmithpcmc@gmail.com
-
-- ⚡ Fun fact: I love building full-stack applications
-
-  <h3 align="left">Connect with me:</h3
 <p align="left">
-<a href="https://www.linkedin.com/in/shashmith-s/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/shashmith-s/" style="margin-right:20px">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:shashmithpcmc@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Gmail" />
+  </a>
 </p>
+
 
 <h3>Languages and Tools:</h3>
 
@@ -90,7 +85,3 @@
 
 
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
